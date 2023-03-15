@@ -33,6 +33,7 @@ producto1.sumaIva();
 producto2.sumaIva();
 producto1.vender();
 
+let carrito [];
 
 console.log(producto1.precio, producto1);
 
